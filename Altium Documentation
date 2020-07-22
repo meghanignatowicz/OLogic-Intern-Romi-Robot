@@ -10,3 +10,10 @@ pick component
      
 [Power Supply voltage]
 
+When picking a component to use, check the tolerance/ package size (imperial)
+    -space key = rotate
+
+Resistors footprints:
+  red side is the positive side and is always towards the side recieving power.
+  
+Right click anywhere > place > wire > right click to leave tool
