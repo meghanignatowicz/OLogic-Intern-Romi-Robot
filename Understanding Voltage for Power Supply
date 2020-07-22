@@ -48,4 +48,26 @@ Diodes
                         |--> current > static
   Rectification currents: diodes cancel out waveform/ 120V AC > 120V DC
   
-  LED --> Vangap
+  LED --> Band gap
+  Transformer --> purpose magnetic isolation
+  
+  Parallel vs. Series
+  ++
+  --
+  vs
+  +-+-
+   Parallel:
+    - increases capacity
+      Ie. 1.5V
+          500mA(2) = 1000mA
+    Series:
+      - increases voltage
+        Ie. 1.5V(2) = 3V
+    
+   Resistors: 
+    Parallel: resistors in parallel = half their value 
+            - 10ohm parallel with 10ohm = (R1)(R2)/(R1+R2) = 100/20 = 5ohms
+    Series: current through each resistor in series is the same/ current is the same at all points in a series circuit 
+            - 50ohm series with 30ohm = R1+R2 = 80ohm 
+         
+    
