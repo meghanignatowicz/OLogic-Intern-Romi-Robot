@@ -8,7 +8,7 @@ pick component
      -left click to place
      -right click to leave place command
      
-[Power Supply voltage]
+[Understanding Voltage for Power Supply]
 
 When picking a component to use, check the tolerance/ package size (imperial)
     -space key = rotate
