@@ -15,5 +15,37 @@ Voltage of LED:
  current test = 15 mA = 0.015 A
  1.7/0.015 = 113.333 = I
  
+Vcc = voltage at the common collector
+V = supply voltage
+cc = supply voltage is postive or negative
 
- 
+AC = analog - natural rythm 
+            - signals power/data/wifi: wireless
+            - delivery of current in long distances = AC
+DC = digital - 0's and 1's
+             - low level power 
+Ie. MOSFETS: transistor(switch)
+    hold states of 1 or 0, transfers logic between 1's and 0's
+AC ardiuno - relies on 1's and 0's
+           - uses DC because it needs binary
+           - computation --> DC
+         Ie. remote: DC --> AC
+             fm/am radio: frequency/amplitude/modulation
+Minimize AC signaling --> DC
+Ie. AC wall plug --> lamp --> coil inductor is open in AC --> coil get hot --> creates light
+              |--> LED - diode = AC signal --> current switch mode power supply --> AC > DC logic produce efficient energy --> light is cold (lumens)
+
+Electron flow = friction
+
+Current increases --> volume of electrons increases --> friction increases --> temoerature increases: enegery lost
+
+Power = IV
+
+Diodes
+  Rectification: process of taking AC signal and cutting off 1/2 voltage 
+                                                              |--> positive/negative
+  needs rectification: AC > DC 
+                        |--> current > static
+  Rectification currents: diodes cancel out waveform/ 120V AC > 120V DC
+  
+  LED --> Vangap
