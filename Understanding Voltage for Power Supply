@@ -1,0 +1,19 @@
+Understanding Voltage for Power Supply
+
+  Ohm's Law 
+    V=IR
+   V = voltage
+   I = Current
+   R = resistance
+   
+Voltage of LED:
+ 5 volts = IR
+ 3.3 volts for LED
+ 5-3.3 = 1.7 = necessary volts
+ 
+ [1A for every 1000mA]
+ current test = 15 mA = 0.015 A
+ 1.7/0.015 = 113.333 = I
+ 
+
+ 
